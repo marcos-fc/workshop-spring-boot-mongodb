@@ -1,5 +1,5 @@
 # workshop-spring-boot-mongodb
-Api Rest - Faz consulta de usuarios por id e encontra post ou comentario atraves de palavras chave em Fórum de discussão.
+Api Rest - Faz consulta de usuários por id e encontra post ou comentario atraves de palavras chave em Fórum de discussão.
 
 # Tecnologias utilizadas
 * **Java versão 11**
